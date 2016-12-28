@@ -1,0 +1,23 @@
+{
+  "name": "kirma-calc",
+  "version": "0.0.1",
+  "description": "Simple calc to study publish on npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kirmayrtomaz/kirma-calc.git"
+  },
+  "keywords": [
+    "calc",
+    "js"
+  ],
+  "author": "Kirmayr Tomaz <tomaz.kirmayr@gmail.com> (https://kirmayrtomaz.github.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kirmayrtomaz/kirma-calc/issues"
+  },
+  "homepage": "https://github.com/Kirmayrtomaz/kirma-calc#readme"
+}
